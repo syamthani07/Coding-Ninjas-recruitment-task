@@ -1,4 +1,5 @@
 #Employee Attrition Prediction
+
 This project uses machine learning models (Random Forest & SVM) to predict employee attrition based on HR data.
 The goal is to help companies identify factors that influence employee turnover and take preventive actions.
 
